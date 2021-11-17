@@ -6,7 +6,7 @@ object sort
     {
       
         // Applying indexOf method
-        val result = "Kashish".indexOf('i')
+        val result = "Tushar".indexOf('i')
           
         // Displays output
         println(result)
